@@ -1,6 +1,6 @@
 # CSS Tabs
 
-Transitioning between variable heights
+Transitioning between variable heights using only html checkbox inputs and CSS.
 
 Originally created on [codepen](http://codepen.io/fusco/pen/Wvzjrm).
 
